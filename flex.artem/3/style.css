@@ -1,0 +1,23 @@
+body {
+	background-color: white;
+	color: #333;
+	font-size: 25px;
+	padding: 15px;
+}
+
+.ramka {
+	border: 2px solid #77a6b6;
+	border-radius: 10px;
+	width: 400px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.text {
+	background-color: #4d7298;
+	color: white;
+	padding: 15px;
+	width: 150px;
+}
